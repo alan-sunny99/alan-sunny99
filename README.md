@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @alan-sunny99
 - 👀 I’m interested in High Energy Astrophysics Data Analysis
 - 🌱 I’m currently doing a PhD in Astronomy, Astrophysics and Space Science
-- 💞️ I’m looking to collaborate on Data Analysis Techniques
 - 📫 How to reach me email: alansunny21.phy@gmail.com
 
 <!---
